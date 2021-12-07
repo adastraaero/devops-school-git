@@ -1,2 +1,6 @@
 First line of code is correct
+<<<<<<< HEAD
 Second line of code is correct
+=======
+Third line of code is correct
+>>>>>>> new_feature

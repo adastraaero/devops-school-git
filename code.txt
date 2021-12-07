@@ -1,2 +1,5 @@
 This line is correct
+<<<<<<< HEAD
+=======
+>>>>>>> new_feature
 This line is correct
